@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  spring-app-chart:
+  - apiVersion: v2
+    created: "2021-02-05T05:53:24.796856-06:00"
+    description: A Helm chart for spring based applications
+    digest: 28da12460f0d2929b26731fcc34882665d459dc8e8c01359aa4e7070d805d902
+    name: spring-app-chart
+    urls:
+    - https://eleduardo.github.io/toy-helm-repo/spring-app-chart-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-02-05T05:53:24.795719-06:00"
